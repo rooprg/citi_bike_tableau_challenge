@@ -1,6 +1,8 @@
-**Citi Bike Visualizations & Analysis**
+Citi Bike Visualizations & Analysis
+
 This challenge includes generating reports and analysis for city officials to help boost New York City's Citi Bike program.
 Using program data housed on their System Data website (https://citibikenyc.com/system-data) for the past decade plus on bike utilization, I have generated visualizations, dashboards, and a story via Tableau, plus documented my analysis of the data used.
+
 
 Data:
 I have used 2022 monthly data from Jersey City, New Jersey, which also includes certain data outside New Jersey (e.g., stations in Manhattan where bikes were returned).
@@ -10,14 +12,18 @@ Pandas library was used to compile, clean, and organize the data into a DataFram
 
 
 Visualizations:
+
 My visualizations are posted here on Tableau Public.
 
+
 Questions:
+
 I set out to research the below questions within this exercise-
 (1)  Are there any insights to be gleaned from user behavior in 2022 over the course of a full week?
 (2) Are there any patterns that emerge from 2022 when season or weather is assessed that might boost bike usage?
 
 Visualizations:
+
 For Question 1, I started by looking at the Average Rental Duration (and the Percent Difference in Average Rental Duration) over the course of the week (Sunday through Friday) for all of 2022. Each day of the week has a greater Average Rental Duration (ADR) than 3.85 minutes (min). It is interesting that Wednesday has the highest ADR at 7.41 min. I visualized this trend with this line graph:
 <insert Viz1>
 
@@ -31,7 +37,7 @@ If casual bikers increase the ADR for Wednesdays, perhaps we can gain insights i
 
 
 I created a dashboard, Rider Behavior, to describe my progress through this question and phenomenon. Overall, looking a rider behavior, particularly stations and bike type, more vigorously may provide input on further strategies to boost program usage.
-
+<insert Rider Behavior>
 
 As for Question 2, I continued my assessment of biker behavior with respect to seasonal and/or weather factors. The longest and shortest days (the Summer Solstice and the Winter Solstice, respectively) of the year occur 6 months apart and usually have different weather patterns.
 By looking at Total Rides over the course of 2022, a line graph can be generated that meets our expectation of what weather conditions might do to bike utilization, namely arise through the Spring of the North Hemisphere; remain high through Fall; and dip when Winter arrives. This visualization denotes this trend:
@@ -54,7 +60,7 @@ The use of Classic Bikes and Docked bikes are similar on these two dates as note
 
 
 I created a dashboard, Bike Drivers, to delineate my way through this question and phenomenon. Adding availability of certain types of bikes at select stations may prompt more rides by both types of riders. It appears that electric bikes may be tied to long rides, which could be applied to both member and casual users.
-
+<insert Biker Drivers>
 
 I generated a map to visualize where bike rides most often terminate. I appears that the stations where the most rides terminate is on the harbor side. This area is rich with transportation hubs. There are connections to trains and ferries, including a ferry that visits the Statue of Liberty. This means the potential exists for both commuters and sightseers to use Citi Bikes for work and/or pleasure, which bodes well for continued success and perhaps even boosts to rentals.
 
@@ -62,11 +68,18 @@ I generated a map to visualize where bike rides most often terminate. I appears 
 
 
 Analysis:
+
 There are many reasons for wanting the Citi Bike program to prosper, including helping to mitigate car traffic; assist with noise and air pollution; and health/exercise benefits to name a few. My analysis only covers 2022, but insights gained might be applicable to other years and the past decade. I’m sure you are constantly considering new approaches to ensure the continued viability of and propagation of the Citi Bike program.
+
+My story is:
+
+<insert story>
+
 Considering the above visualizations, dashboards, and story, changes in numbers of bikes at certain locations; availability of specific bike types to certain riders at certain times; and increased focus on metrics for stations at or near transportation hubs; parks; and sightseeing activities may be advantageous increasing ridership and positive feelings about the program and its benefits.
 
 
 Next steps:
+
 While the scope of this analysis is narrow, additional research could be geared towards the below in ascertaining if these phenomenon exist more widely by-
 (1) Expanding research beyond 2022
 (2) Expanding research beyond Jersey City
@@ -75,9 +88,9 @@ While the scope of this analysis is narrow, additional research could be geared 
 
 Citations:
 (1) Questions asked of Xpert Learning Assistant include
-(a) Haversine Formula for calculating distances
-(b) Pandas - splitting columns
-(c) Pandas concatenation
+    (a) Haversine Formula for calculating distances
+    (b) Pandas - splitting columns
+    (c) Pandas concatenation
 
 (2) Pandas concatenation: https://www.geeksforgeeks.org/how-to-merge-multiple-csv-files-into-a-single-pandas-dataframe/
 
