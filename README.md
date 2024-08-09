@@ -5,6 +5,7 @@ Using program data housed on their System Data website (https://citibikenyc.com/
 
 
 Data:
+
 I have used 2022 monthly data from Jersey City, New Jersey, which also includes certain data outside New Jersey (e.g., stations in Manhattan where bikes were returned).
 I compiled twelve months of Jersey City data into a single file for my review, visualization, and analysis. I am not able to load the master file on Git Hub due to space restrictions; however, all twelve individual .csv files are present in the “Data” folder.
 
@@ -13,15 +14,17 @@ Pandas library was used to compile, clean, and organize the data into a DataFram
 
 Visualizations:
 
-My visualizations are posted here on Tableau Public.
+My visualizations are posted <here> on Tableau Public.
 
 
 Questions:
 
 I set out to research the below questions within this exercise-
+
 (1)  Are there any insights to be gleaned from user behavior in 2022 over the course of a full week?
 
 (2) Are there any patterns that emerge from 2022 when season or weather is assessed that might boost bike usage?
+
 
 Visualizations:
 
@@ -72,7 +75,7 @@ Analysis:
 
 There are many reasons for wanting the Citi Bike program to prosper, including helping to mitigate car traffic; assist with noise and air pollution; and health/exercise benefits to name a few. My analysis only covers 2022, but insights gained might be applicable to other years and the past decade. I’m sure you are constantly considering new approaches to ensure the continued viability of and propagation of the Citi Bike program.
 
-My story is:
+My story is outlined here:
 
 <insert story>
 
