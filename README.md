@@ -1,4 +1,4 @@
-**Citi Bike Visualizations & Analysis**
+**CITI BIKE VISUALIZATIONS & ANALYSIS**
 
 This challenge includes generating reports and analysis for city officials to help boost New York City's Citi Bike program.
 Using program data housed on their System Data website (https://citibikenyc.com/system-data) for the past decade plus on bike utilization, I have generated visualizations, dashboards, and a story via Tableau, plus documented my analysis of the data used.
