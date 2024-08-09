@@ -1,10 +1,10 @@
-Citi Bike Visualizations & Analysis
+**Citi Bike Visualizations & Analysis**
 
 This challenge includes generating reports and analysis for city officials to help boost New York City's Citi Bike program.
 Using program data housed on their System Data website (https://citibikenyc.com/system-data) for the past decade plus on bike utilization, I have generated visualizations, dashboards, and a story via Tableau, plus documented my analysis of the data used.
 
 
-Data:
+**(1) Data:**
 
 I have used 2022 monthly data from Jersey City, New Jersey, which also includes certain data outside New Jersey (e.g., stations in Manhattan where bikes were returned).
 I compiled twelve months of Jersey City data into a single file for my review, visualization, and analysis. I am not able to load the master file on Git Hub due to space restrictions; however, all twelve individual .csv files are present in the “Data” folder.
@@ -12,12 +12,12 @@ I compiled twelve months of Jersey City data into a single file for my review, v
 Pandas library was used to compile, clean, and organize the data into a DataFrame and subsequently saved to the large .csv file mentioned above. The code for these operations is found in the “Cleaning” folder.
 
 
-Visualizations:
+**(2) Visualizations:**
 
 My visualizations are posted <here> on Tableau Public.
 
 
-Questions:
+**(3) Questions:**
 
 I set out to research the below questions within this exercise-
 
@@ -26,7 +26,7 @@ I set out to research the below questions within this exercise-
 (2) Are there any patterns that emerge from 2022 when season or weather is assessed that might boost bike usage?
 
 
-Visualizations:
+**(4) Visualizations and Dashboards:**
 
 For Question 1, I started by looking at the Average Rental Duration (and the Percent Difference in Average Rental Duration) over the course of the week (Sunday through Friday) for all of 2022. Each day of the week has a greater Average Rental Duration (ADR) than 3.85 minutes (min). It is interesting that Wednesday has the highest ADR at 7.41 min. I visualized this trend with this line graph:
 <insert Viz1>
@@ -71,7 +71,7 @@ I generated a map to visualize where bike rides most often terminate. I appears 
 <insert map>
 
 
-Analysis:
+**(5) Analysis and Story:**
 
 There are many reasons for wanting the Citi Bike program to prosper, including helping to mitigate car traffic; assist with noise and air pollution; and health/exercise benefits to name a few. My analysis only covers 2022, but insights gained might be applicable to other years and the past decade. I’m sure you are constantly considering new approaches to ensure the continued viability of and propagation of the Citi Bike program.
 
@@ -82,7 +82,7 @@ My story is outlined here:
 Considering the above visualizations, dashboards, and story, changes in numbers of bikes at certain locations; availability of specific bike types to certain riders at certain times; and increased focus on metrics for stations at or near transportation hubs; parks; and sightseeing activities may be advantageous increasing ridership and positive feelings about the program and its benefits.
 
 
-Next steps:
+**(6) Next steps:**
 
 While the scope of this analysis is narrow, additional research could be geared towards the below in ascertaining if these phenomenon exist more widely by-
 (1) Expanding research beyond 2022
@@ -90,7 +90,8 @@ While the scope of this analysis is narrow, additional research could be geared 
 (3) Using additional analytical tools to assess differences across metrics; populations; etc.
 
 
-Citations:
+**(7) Citations:**
+
 (1) Questions asked of Xpert Learning Assistant include
     (a) Haversine Formula for calculating distances
     (b) Pandas - splitting columns
