@@ -20,6 +20,7 @@ Questions:
 
 I set out to research the below questions within this exercise-
 (1)  Are there any insights to be gleaned from user behavior in 2022 over the course of a full week?
+
 (2) Are there any patterns that emerge from 2022 when season or weather is assessed that might boost bike usage?
 
 Visualizations:
