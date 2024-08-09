@@ -14,7 +14,7 @@ Pandas library was used to compile, clean, and organize the data into a DataFram
 
 **(2) Visualizations:**
 
-My visualizations are posted at https://public.tableau.com/views/tableau_challenge_roop_final/OverallStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link on Tableau Public.
+My visualizations (plus dashboards and story) are posted at https://public.tableau.com/views/tableau_challenge_roop_final/OverallStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link on Tableau Public.
 
 
 **(3) Questions:**
