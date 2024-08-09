@@ -92,10 +92,14 @@ While the scope of this analysis is narrow, additional research could be geared 
 
 **(7) Citations:**
 
-(1) Questions asked of Xpert Learning Assistant include
+(1) Questions asked of Xpert Learning Assistant include:
+
     (a) Haversine Formula for calculating distances
+
     (b) Pandas - splitting columns
+
     (c) Pandas concatenation
+
 
 (2) Pandas concatenation: https://www.geeksforgeeks.org/how-to-merge-multiple-csv-files-into-a-single-pandas-dataframe/
 
