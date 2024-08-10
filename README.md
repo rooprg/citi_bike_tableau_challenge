@@ -114,6 +114,7 @@ While the scope of this analysis is narrow, additional research could be geared 
 **(7) Citations:**
 
 (1) Questions asked of Xpert Learning Assistant include:
+
     (a) Haversine Formula for calculating distances
 
     (b) Pandas - splitting columns
