@@ -6,7 +6,7 @@ Using program data housed on their System Data website (https://citibikenyc.com/
 
 **(1) Data:**
 
-I have used 2022 monthly data from Jersey City, New Jersey, which also includes certain data outside New Jersey (e.g., stations in Manhattan where bikes were returned).
+I used 2022 monthly data from Jersey City, New Jersey, which also includes certain data outside New Jersey (e.g., stations in Manhattan where bikes were returned).
 I compiled twelve months of Jersey City data into a single file for my review, visualization, and analysis. I am not able to load the master file on Git Hub due to space restrictions; however, all twelve individual .csv files are present in the “Data” folder.
 
 Pandas library was used to compile, clean, and organize the data into a DataFrame and subsequently saved to the large .csv file mentioned above. The code for these operations is found in the “Cleaning” folder.
