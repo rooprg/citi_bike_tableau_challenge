@@ -111,6 +111,7 @@ While the scope of this analysis is narrow, additional research could be geared 
 (3) Using additional analytical tools to assess differences across rental metrics; biker populations; optimal times; etc.
 
 
+
 **(7) Citations:**
 
 (1) Questions asked of Xpert Learning Assistant include:
