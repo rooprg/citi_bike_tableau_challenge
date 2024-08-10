@@ -89,27 +89,31 @@ I generated a map to visualize where bike rides most often terminate. I appears 
 
 **(5) Analysis and Story:**
 
-There are many reasons for wanting the Citi Bike program to prosper, including helping to mitigate car traffic; assist with noise and air pollution; and health/exercise benefits to name a few. My analysis only covers 2022, but insights gained might be applicable to other years and the past decade. I’m sure you are constantly considering new approaches to ensure the continued viability of and propagation of the Citi Bike program.
+There are many reasons for wanting the Citi Bike program to prosper, including helping to mitigate car traffic; assist with noise and air pollution; and health/exercise benefits to name a few. 
+
+My analysis only covers 2022, but insights gained might be applicable to other years and the past decade. I’m sure you are constantly considering new approaches to ensure the continued viability of and propagation of the Citi Bike program.
 
 My story is outlined here:
 
 ![Overall Story](/Output/overall_story.png)
 
-Considering the above visualizations, dashboards, and story, changes in numbers of bikes at certain locations; availability of specific bike types to certain riders at certain times; and increased focus on metrics for stations at or near transportation hubs; parks; and sightseeing activities may be advantageous increasing ridership and positive feelings about the program and its benefits.
+Considering the above visualizations, dashboards, and story, changes in numbers of bikes at certain locations; availability of specific bike types to certain riders at certain times; and increased focus on metrics for stations at or near transportation hubs; parks; and sightseeing activities may be advantageous increasing ridership and positive feelings about the program and its benefits. Using information about what types of bike riders using specific bikes at both starting stations and terminating stations can give strategic insights on how better to deploy resources; whether new stations should be added and/or current stations should be shrunk or potentially even closed; and whether the correct mix of bikes at each station should be changed. This analysis answers some preliminary questions, but further analysis could be conducted at a granular level to support future strategic decisions. I have noted some possible directions directly below.
 
 
 **(6) Next steps:**
 
 While the scope of this analysis is narrow, additional research could be geared towards the below in ascertaining if these phenomenon exist more widely by-
-(1) Expanding research beyond 2022
+
+(1) Expanding research beyond 2022, but focusing on the recent past may be best to maximize strategy
+
 (2) Expanding research beyond Jersey City
-(3) Using additional analytical tools to assess differences across metrics; populations; etc.
+
+(3) Using additional analytical tools to assess differences across rental metrics; biker populations; optimal times; etc.
 
 
 **(7) Citations:**
 
 (1) Questions asked of Xpert Learning Assistant include:
-
     (a) Haversine Formula for calculating distances
 
     (b) Pandas - splitting columns
