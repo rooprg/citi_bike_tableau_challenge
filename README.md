@@ -104,11 +104,11 @@ Considering the above visualizations, dashboards, and story, changes in numbers 
 
 While the scope of this analysis is narrow, additional research could be geared towards the below in ascertaining if these phenomenon exist more widely by-
 
-(1) Expanding research beyond 2022, but focusing on the recent past may be best to maximize strategy
+--> Expanding research beyond 2022, but focusing on the recent past may be best to maximize strategy
 
-(2) Expanding research beyond Jersey City
+--> Expanding research beyond Jersey City
 
-(3) Using additional analytical tools to assess differences across rental metrics; biker populations; optimal times; etc.
+--> Using additional analytical tools to assess differences across rental metrics; biker populations; optimal times; etc.
 
 
 
