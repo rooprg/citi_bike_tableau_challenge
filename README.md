@@ -71,7 +71,7 @@ A simple table shows there are indeed more bike rides on 21-Jun-2022:
 
 By drilling down into the data more and looking at the Sum of Distance (in miles) for 21-Jun-2022 and 21-Dec-2022, then partitioning the data by bike type, we might see another interesting behavioral metric:
 
-![Electricity](/Output/electricity.png)
+![Electricity](/Output/electric.png)
 
 
 The use of Classic Bikes and Docked bikes are similar on these two dates as noted below. Using Sum of Distance (SoD), the below stacked bar chart shows 1,174 miles for Classic Bikes on 21-Jun-2022 and 1,043 for Classic Bikes on 21-Dec-2023. These are virtually the same, as are the Docked Bikes (2 versus 9, respectively. The big difference is in Electric Bike usage, where almost a four fold difference is seen (905 versus 230, respectively). Again, this is an indicator that might lead to more evaluation and/or strategies to boost the program.
