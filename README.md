@@ -35,48 +35,48 @@ I set out to research the below questions within this exercise-
 **(4) Visualizations and Dashboards:**
 
 For Question 1, I started by looking at the Average Rental Duration (and the Percent Difference in Average Rental Duration) over the course of the week (Sunday through Friday) for all of 2022. Each day of the week has a greater Average Rental Duration (ADR) than 3.85 minutes (min). It is interesting that Wednesday has the highest ADR at 7.41 min. I visualized this trend with this line graph:
-![Behavior Change](../Output/behavior_change.png)
+![Behavior Change](/Output/behavior_change.png)
 
 
 Interest in who might be increasing the ADR on Wednesday lead to generation of the below bar chart, where there is uniformity in the ADR for members, of which a great proportion may be commuters. There is more variability in the casual bikers, peaking on Wednesday as noted here:
-![Who Are They](../Output/who_are_they.png)
+![Who Are They](/Output/who_are_they.png)
 
 
 If casual bikers increase the ADR for Wednesdays, perhaps we can gain insights into which type of bike that are using. The below box plot indicates that Docked Bikes have a wider variation in ADR and for the most part, ADR is equal to or greater for Docked Bikes than both Electric Bikes and Classic Bikes. Wednesday is the third highest ADR at 22.94 min, which is higher than the Median. This may indicate Docked Bikes are an important part of the Casual Biker experience. This could be leveraged to boost the program in general.
-![Act Casual](../Output/act_casual.png)
+![Act Casual](/Output/act_casual.png)
 
 
 I created a dashboard, Rider Behavior, to describe my progress through this question and phenomenon. Overall, looking a rider behavior, particularly stations and bike type, more vigorously may provide input on further strategies to boost program usage.
-![Rider Behavior](../Output/rider_behavior.png)
+![Rider Behavior](/Output/rider_behavior.png)
 
 
 As for Question 2, I continued my assessment of biker behavior with respect to seasonal and/or weather factors. The longest and shortest days (the Summer Solstice and the Winter Solstice, respectively) of the year occur 6 months apart and usually have different weather patterns.
 By looking at Total Rides over the course of 2022, a line graph can be generated that meets our expectation of what weather conditions might do to bike utilization, namely arise through the Spring of the North Hemisphere; remain high through Fall; and dip when Winter arrives. This visualization denotes this trend:
-![Warmer Times](../Output/warmer_times.png)
+![Warmer Times](/Output/warmer_times.png)
 
 
 If we look at Rental Duration again, but this time in the context of a summed metric individually for 21-Jun-2022 and 21-Dec-2022, respectively, we see something that might need more investigation. As can be seen below, the Sum of Rental Duration (SRD) for 21-Dec-2022 is larger in terms of minutes than the SDR for 21-Jun-2022. With warmer conditions, we might expect for riders, particularly Casual Riders, to bike for longer periods or expect that with long days, there would be more time in the day and potentially, more bike rentals per day, leading to a larger SDR.
-![Long & Short of It](../Output/long_and_short_of_it.png)
+![Long & Short of It](/Output/long_and_short_of_it.png)
 
 
 A simple table shows there are indeed more bike rides on 21-Jun-2022:
-![Rides by Solstice](../Output/rides_by_solstice.png)
+![Rides by Solstice](/Output/rides_by_solstice.png)
 
 
 By drilling down into the data more and looking at the Sum of Distance (in miles) for 21-Jun-2022 and 21-Dec-2022, then partitioning the data by bike type, we might see another interesting behavioral metric:
-![Electricity](../Output/electricity.png)
+![Electricity](/Output/electricity.png)
 
 
 The use of Classic Bikes and Docked bikes are similar on these two dates as noted below. Using Sum of Distance (SoD), the below stacked bar chart shows 1,174 miles for Classic Bikes on 21-Jun-2022 and 1,043 for Classic Bikes on 21-Dec-2023. These are virtually the same, as are the Docked Bikes (2 versus 9, respectively. The big difference is in Electric Bike usage, where almost a four fold difference is seen (905 versus 230, respectively). Again, this is an indicator that might lead to more evaluation and/or strategies to boost the program.
 
 
 I created a dashboard, Bike Drivers, to delineate my way through this question and phenomenon. Adding availability of certain types of bikes at select stations may prompt more rides by both types of riders. It appears that electric bikes may be tied to long rides, which could be applied to both member and casual users.
-![Bike Drivers](..Output/bike_drivers.png)
+![Bike Drivers](/Output/bike_drivers.png)
 
 
 I generated a map to visualize where bike rides most often terminate. I appears that the stations where the most rides terminate is on the harbor side. This area is rich with transportation hubs. There are connections to trains and ferries, including a ferry that visits the Statue of Liberty. This means the potential exists for both commuters and sightseers to use Citi Bikes for work and/or pleasure, which bodes well for continued success and perhaps even boosts to rentals.
 
-![End Stations by Zip Map](../Output/end_stations_by_zip_map.png)
+![End Stations by Zip Map](/Output/end_stations_by_zip_map.png)
 
 
 **(5) Analysis and Story:**
@@ -85,7 +85,7 @@ There are many reasons for wanting the Citi Bike program to prosper, including h
 
 My story is outlined here:
 
-![Overall Story](../Output/overall_story.png)
+![Overall Story](/Output/overall_story.png)
 
 Considering the above visualizations, dashboards, and story, changes in numbers of bikes at certain locations; availability of specific bike types to certain riders at certain times; and increased focus on metrics for stations at or near transportation hubs; parks; and sightseeing activities may be advantageous increasing ridership and positive feelings about the program and its benefits.
 
